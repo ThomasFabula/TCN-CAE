@@ -12,9 +12,10 @@
 - Liquidation / Löschung: Q4/2000 
 
 ## Technisches Ingenieurbüro 
-Dienstleistungen
+Engineering-Dienstleistungen:
 - CAD/CAE Konstruktion, Datenkonvertierungen
-- Simulation: Finite-Elemente-Methode (FEM),Strömungsberechnungen (CFD)
+- Finite-Elemente-Methode (FEM-Simulation)
+- Strömungsberechnungen (CFD)
 
 ## Weitere Informationen
 - https://tfconsult.com/verbindung-zwischen-catia-und-ansys/
