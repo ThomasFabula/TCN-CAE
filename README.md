@@ -10,7 +10,7 @@
 ## Technisches Ingenieurbüro 
 Dienstleistungen
 - CAD/CAE Konstruktion, Datenkonvertierungen
-- Simulation: Finite-Elemente-Methode (FEM)
+- Simulation: Finite-Elemente-Methode (FEM),Strömungsberechnungen (CFD)
 
 ## Informationen
 - https://tfconsult.com/verbindung-zwischen-catia-und-ansys/
