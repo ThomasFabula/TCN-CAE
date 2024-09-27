@@ -7,7 +7,8 @@
 ## Legal
 - https://www.northdata.de/TCN+CAE-Technologien+und+Systeme+GmbH,+Dortmund/HRB+9257
 - GmbH-Eintragung: Mitte 1990
-- Später Umfirmierung in tcn AG Engineering + Services AG, mit Sitz in Unna
+- Spin-off: TCNK Entwicklung Konstruktion Simulation GmbH, Anfang 1995 
+- Später Umfirmierung aller GmbHs in "tcn AG Engineering + Services AG", mit Sitz in Unna
 - Liquidation / Löschung: Q4/2000 
 
 ## Technisches Ingenieurbüro 
@@ -15,5 +16,5 @@ Dienstleistungen
 - CAD/CAE Konstruktion, Datenkonvertierungen
 - Simulation: Finite-Elemente-Methode (FEM),Strömungsberechnungen (CFD)
 
-## Informationen
+## Weitere Informationen
 - https://tfconsult.com/verbindung-zwischen-catia-und-ansys/
