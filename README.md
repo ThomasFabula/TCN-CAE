@@ -1,7 +1,7 @@
 # TCN-CAE
 
 ## TCN CAE-Technologien und Systeme GmbH
-- D-44227 Dortmund, Otto-Hahn-Str. 20
+- D-44227 Dortmund (Eichlinghofen), Otto-Hahn-Str. 20
 - Amtsgericht Dortmund HRB 9257
 
 ## Legal
