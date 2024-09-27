@@ -1,0 +1,89 @@
+TCN CAE-Technologien und Systeme
+
+Der Einsatz von rechnergestützten CAE-Werkzeugen in der Produktion verkürzt durch Reduktion der Proto¬typenanzahl die Produktionszeiten 
+und trägt somit zu einer erheblichen Kostenreduktion der Gesamtentwicklung bei. Numerische Berechnungen mit Hilfe der Finite-Elemente-Methode
+(FEM) stellen ein effektives Hilfs¬mittel dar, Konstruktionsfehler bereits in der Entwurfsphase zu vermeiden, Bauelemente und Bautei¬le 
+qualitätssichernd auszulegen, sowie anwendungsspezifisch zu optimieren. 
+
+Die TCN CAE-Technologien+Systeme GmbH besitzt als namhaftes CAE-Systemhaus und autorisierter IBM-Geschäftspartner langjährige 
+Erfahrung auf dem Gebiet der computerunterstützten Konstruktion und der FEM-Be¬rechnung. Das Dienstleistungsspektrum reicht hierbei
+von der reinen Kundenberatung bis hin zum Komplett¬service, bei der Konstruktion, Datenkonvertierung und FEM-Berechnung 
+projektbegleitend aus einer Hand ge¬boten werden. 
+
+Durch das gezielte Dienstleistungsangebot der TCN wird auch kleinen und mittelständischen Unternehmen der direkte Zugriff
+auf praxiserprobte Berechnungsmetho¬den, modernste CAE-Werkzeuge nach dem neuesten Stand der Technik und bewährtes 
+"Simulations-Know-How" ermöglicht. Daher muß dieser kostenintensive Techno¬logie¬vorrat nicht im eigenen Hause vorgehalten werden.
+
+Die Einschaltung eines externen Berechnungspartners bietet als weitere wesentliche unternehmensbezogene Vorteile vorab kalkulierbare 
+Entwicklungskosten bei gleich¬zeitig reduzierten wirtschaftlichen und technischen Risiken, durch Wegfall von zusätzlichen Investitionen
+und erforderlicher Einarbeitungszeit.
+
+
+Berechnungsschwerpunkte
+Die TCN hat sich im FEM-Bereich auf folgende Gebiete spezialisiert:
+
+	lineare und nicht-lineare Festigkeitsprobleme
+		dynamische Problemstellungen (Modalanalyse, 	transientes Verhalten)
+	Wärmeübertragungsprobleme mit strömungs-
+	¬me¬cha¬nischer Kopplung
+		gekoppelte mechanisch-thermische, 
+		piezo¬elektrische Problemstellungen
+		Form- und Gewichtsoptimierung unter beliebigen 	Restriktionen
+
+Im Vordergrund steht bei der Projektarbeit die Berech-nungsergebnisse mit dem Kunden gemeinsam zu inter¬pretieren und neue
+Lösungsvorschläge zu erarbeiten, um sie anschließend in verbesserte Konstruktionen umzu¬setzen. Die TCN legt hierbei
+besonderen Wert auf absolute Termintreue und ein ausgewogenes Preis-/ Leistungs-Verhältnis.
+
+
+Anwendungsgebiete und Zielgruppen
+Im Laufe der letzten Jahre hat die TCN die unter¬schiedlichsten Projekte aus den Bereichen Auto¬mobil, Maschinenbau, Bauwesen, 
+Konsumgüter, Elek¬tronik, Feinwerktechnik, Sensorik, Fertigungs- und Kunst¬stofftechnik durchgeführt. Durch die zahlreichen 
+FEM-Berechnungsprojekte kann die TCN auf einen reichen Erfahrungsschatz in der numerischen Simulation und Opti¬mie¬rung zurückgreifen.
+Dienstleistungsbereiche
+ 	Projektarbeit:
+Die Problemanalyse erfolgt gemeinsam mit dem Kunden unter Berücksichtigung der technischen Randbedingungen zur Erzielung einer 
+wirtschaftli¬chen Lösung. Soweit  möglich erfolgt  der Aufbau pa¬rametrisierter FEM-Modelle zur automatischen Opti¬mierung. 
+Falls eine Automatisierung nicht möglich ist, werden manuelle Parametervariationen durch¬geführt, um Einblicke in das 
+Bauelementverhalten zu  bekommen und diese beurteilen zu können. Die Ver-rechnung erfolgt wahlweise nach Aufwand oder Festpreis.
+
+		Schulungen und Workshops:
+•	Einführungskurse (allgemeine FEM Grundlagen)
+•	spezielle FEM-Aufbauseminare
+•	Individuelles "Training on the Job"
+	•	Programmanwendungen (CATIA-FEM, TCIGES)
+	•	Workshop: "Wirtschaftlicher Einsatz von CAE- und
+		FE-Methoden"
+	•	Workshop: "Optimierter CAD-FEM Datentransfer"
+Weitere anwendungsspezifische Themen in Absprache mit dem Kunden.
+
+		Datentransfer:
+Übernahme der Geometriedaten aus CAD-Zeich¬nun¬gen bzw. Einlesen und Konvertieren von CAD-Modellen und anschließende 
+Aufbereitung von FEM-Berechnungs-modellen mit problem¬angepaßten Ele¬ment¬vernetzungen.
+
+		Kundenberatung und Unterstützung:
+Einführungsberatung bei der Auswahl von CAE-Werkzeugen. Die Installation vor Ort, sowie der Support und die telefonische 
+Unterstützung erleich¬tern dem Kunden den Einstieg und den effizienten  Einsatz dieser zeit- und schulungsintensiven Werk¬zeuge.
+
+
+Eingesetzte Werkzeuge
+Zur Bearbeitung der Projektdienstleistungen werden einerseits bewährte CAD/CAM-Programmsysteme wie CATIA sowie Struktur- und
+Strömungsberechnungs¬pro¬gramme (ANSYS, FLOTRAN) verwendet.  Ande¬rer¬seits kommen spezielle Programme zum Einsatz, die im 
+eigenen Hause entwickelt und gewartet werden. Hierbei liegt der Schwerpunkt auf der Kopplung von CAD- und FEM-Programmen mit
+Hilfe genormter Schnitt¬stellen für die Datenübertragung (IGES, VDAFS und DXF). Weiterhin werden kundenspezifische
+Pro-gram¬mier¬arbeiten durchgeführt, beispielsweise CAD- und FEM-Programmerweiterungen.
+
+
+Ansprechpartner:
+Dr.-Ing. A. Bakic	0231/97 50 96-16
+Dr. rer. nat. Th. Fabula 	0231/97 50 96-29
+
+
+TCN CAE-Technologien + Systeme GmbH
+Otto-Hahn-Str. 20
+44227 Dortmund
+Fax: 02 31/75 00 97
+
+
+
+CATIA : eingetragenes Warenzeichen der Dassault Systemes
+ANSYS, FLOTRAN: eingetrag. Warenzeichen von ANSYS Inc.
