@@ -30,14 +30,15 @@ Die TCN hat sich im FEM-Bereich auf folgende Gebiete spezialisiert:
 - Form- und Gewichtsoptimierung unter beliebigen Restriktionen
 
 Im Vordergrund steht bei der Projektarbeit die Berechnungsergebnisse mit dem Kunden gemeinsam zu interpretieren und neue
-Lösungsvorschläge zu erarbeiten, um sie anschließend in verbesserte Konstruktionen umzu¬setzen. Die TCN legt hierbei
-besonderen Wert auf absolute Termintreue und ein ausgewogenes Preis-/ Leistungs-Verhältnis.
+Lösungsvorschläge zu erarbeiten, um sie anschließend in verbesserte Konstruktionen umzusetzen. Die TCN legt hierbei
+besonderen Wert auf absolute Termintreue und ein ausgewogenes Preis-/Leistungs-Verhältnis.
 
 
 Anwendungsgebiete und Zielgruppen
 Im Laufe der letzten Jahre hat die TCN die unterschiedlichsten Projekte aus den Bereichen Automobil, Maschinenbau, Bauwesen, 
 Konsumgüter, Elektronik, Feinwerktechnik, Sensorik, Fertigungs- und Kunststofftechnik durchgeführt. Durch die zahlreichen 
 FEM-Berechnungsprojekte kann die TCN auf einen reichen Erfahrungsschatz in der numerischen Simulation und Optimierung zurückgreifen.
+
 Dienstleistungsbereiche
 - Projektarbeit:
 Die Problemanalyse erfolgt gemeinsam mit dem Kunden unter Berücksichtigung der technischen Randbedingungen zur Erzielung einer 
@@ -56,7 +57,7 @@ Weitere anwendungsspezifische Themen in Absprache mit dem Kunden.
 
 - Datentransfer:
 Übernahme der Geometriedaten aus CAD-Zeichnungen bzw. Einlesen und Konvertieren von CAD-Modellen und anschließende 
-Aufbereitung von FEM-Berechnungsmodellen mit problem¬angepaßten Elementvernetzungen.
+Aufbereitung von FEM-Berechnungsmodellen mit problemangepaßten Elementvernetzungen.
 
 - Kundenberatung und Unterstützung:
 Einführungsberatung bei der Auswahl von CAE-Werkzeugen. Die Installation vor Ort, sowie der Support und die telefonische 
