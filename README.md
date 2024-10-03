@@ -19,3 +19,6 @@ Engineering-Dienstleistungen:
 
 ## Weitere Informationen
 - https://tfconsult.com/verbindung-zwischen-catia-und-ansys/
+- https://tfconsult.com/cad-fem-kopplung/
+
+
