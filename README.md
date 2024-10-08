@@ -13,7 +13,8 @@
 
 ## Technisches Ingenieurbüro 
 Engineering-Dienstleistungen:
-- CAD/CAE Konstruktion, Datenkonvertierungen
+- CAD/CAE Konstruktion
+- Datenkonvertierungen, TC-IGES, TC-DXF Processor
 - Finite-Elemente-Methode (FEM-Simulation)
 - Strömungsberechnungen (CFD)
 
