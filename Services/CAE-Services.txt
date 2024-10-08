@@ -1,0 +1,87 @@
+TCN CAE-Technologies and Systems
+
+The use of computer-aided CAE tools in production shortens production times by reducing the number of prototypes 
+and thus contributes to a significant cost reduction in overall development. Numerical calculations using the 
+finite element method (FEM) are an effective tool for avoiding design errors as early as the draft phase, for 
+designing components and parts and optimize them for specific applications. 
+
+TCN CAE-Technologien+Systeme GmbH, a well-known CAE system house and authorized IBM business partner, has many 
+years of experience in the field of computer-aided design and FEM calculations. The range of services offered 
+extends from pure customer advice to a complete service, in which design, data conversion and FEM calculations 
+are offered from a single source. 
+
+Thanks to TCN's targeted range of services, small and medium-sized companies also have direct access
+to field-proven calculation methods, the latest state-of-the-art CAE tools and proven 
+“simulation know-how”. This means that this cost-intensive technology does not have to be stored in-house.
+
+The use of an external calculation partner offers further significant company-related advantages, including 
+calculable development costs with simultaneously reduced economic and technical risks, due to the elimination 
+of additional investments and the necessary training period.
+
+Calculation priorities
+TCN specializes in the following areas of FEM:
+
+- linear and non-linear strength problems
+-- dynamic problems (modal analysis, transient behavior)
+- heat transfer problems with fluid-mechanical coupling
+-- coupled mechanical-thermal, 
+-- piezoelectric problems
+- shape and weight optimization under any restrictions
+
+The focus of the project work is on interpreting the calculation results together with the customer and 
+developing new proposals for solutions, which are then implemented in improved designs. TCN places
+particular emphasis on absolute adherence to deadlines and a balanced price/performance ratio.
+
+Fields of Application and Target Groups
+Over the past few years, TCN has completed a wide range of projects in the automotive, mechanical engineering, 
+construction, consumer goods, electronics, precision engineering, sensor technology, manufacturing and plastics 
+technology sectors. Thanks to the numerous FEM calculation projects, TCN can draw on a wealth of experience
+in numerical simulation and optimization.
+
+Service Offerings
+- Project work:
+The problem analysis is carried out together with the customer, taking into account the technical constraints
+in order to achieve an economical solution. As far as possible, parameterized FEM models are set up for
+automatic optimization. If automation is not possible, manual parameter variations are carried out to gain
+insights into the behavior of the component and to be able to evaluate it. The calculation is carried out 
+either on a time and material basis or at a fixed price.
+
+- Training and workshops:
+• introductory courses (general FEM basics)
+• special FEM advanced seminars
+• individual “training on the job”
+• program applications (CATIA-FEM, TCIGES)
+• workshop: “Cost-effective use of CAE and FE methods”
+• workshop: “Optimized CAD-FEM data transfer”
+Further application-specific topics in consultation with the customer.
+
+- Data transfer:
+Transfer of geometry data from CAD drawings or importing and converting CAD models and subsequent 
+processing of FEM calculation models with element meshing adapted to the problem.
+
+Customer advice and support:
+Introductory advice on the selection of CAE tools. On-site installation, support and telephone 
+assistance make it easier for customers to get started and use these time- and training-intensive 
+tools efficiently.
+
+Tools used
+On the one hand, proven CAD/CAM program systems such as CATIA(TM) and structural and
+flow calculation programs (ANSYS, FLOTRAN). On the other hand, special programs are used that 
+are developed and maintained in-house. The focus here is on the coupling of CAD and FEM programs 
+with the help of standardized interfaces for data transfer (IGES, VDAFS and DXF). Furthermore, 
+customer-specific programming work is carried out, for example, CAD and FEM program extensions.
+
+
+Contact:
+Dr.-Ing. A. Bakic, 0231/97 50 96-16
+Dr.rer.nat. Th. Fabula, 0231/97 50 96-29
+
+
+TCN CAE-Technologien + Systeme GmbH
+Otto-Hahn-Str. 20
+D-44227 Dortmund
+Fax: 02 31/75 00 97
+
+
+CATIA(R) : registered trademark of Dassault Systèmes
+ANSYS(R), FLOTRAN(R): registered trademarks of ANSYS Inc.
