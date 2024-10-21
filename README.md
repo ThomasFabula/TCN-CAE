@@ -3,6 +3,7 @@
 ## TCN CAE-Technologien und Systeme GmbH
 - D-44227 Dortmund (Eichlinghofen), Otto-Hahn-Str. 20
 - Amtsgericht Dortmund HRB 9257
+- IBM Partner (HW- & SW-Vertrieb) 
 
 ## Legal
 - https://www.northdata.de/TCN+CAE-Technologien+und+Systeme+GmbH,+Dortmund/HRB+9257
@@ -13,10 +14,10 @@
 
 ## Technisches Ingenieurbüro 
 Engineering-Dienstleistungen:
-- CAD/CAE Konstruktion
+- CAD/CAE Konstruktion: CATIA 
 - Datenkonvertierungen, TC-IGES, TC-DXF Processor
-- Finite-Elemente-Methode (FEM) Simulation
-- Strömungsberechnungen (CFD)
+- Finite-Elemente-Methode (FEM) Simulation: ANSYS, Elfini
+- Strömungsberechnungen (CFD): FIDAP
 
 ## Weitere Informationen
 - https://tfconsult.com/verbindung-zwischen-catia-und-ansys/
