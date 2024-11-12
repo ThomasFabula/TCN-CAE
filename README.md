@@ -18,10 +18,11 @@
 - CAD/CAE Konstruktion: CATIA V3, V4
 - Datenkonvertierungen: u.a. TC-IGES, DXF & VDAFS Processor
 - Finite-Elemente-Methode (FEM) Simulation:
-- - ANSYS,
-- - Elfini (linear Solver), GPS: Generative Part Structural Analysis 
+- - ANSYS by CADFEM GmbH / SASI, USA
+- - Dassault: Elfini (linear Solver),
+- - Dassault: Generative Part Structural Analysis (GPS)
 - Strömungsberechnungen (CFD): FLOTRAN, FIDAP
-
+  
 ## Weitere Informationen
 - https://tfconsult.com/verbindung-zwischen-catia-und-ansys/
 - https://tfconsult.com/cad-fem-kopplung/
