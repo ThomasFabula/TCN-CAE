@@ -17,7 +17,9 @@
 ### Engineering-Dienstleistungen:
 - CAD/CAE Konstruktion: CATIA V3, V4
 - Datenkonvertierungen: u.a. TC-IGES, DXF & VDAFS Processor
-- Finite-Elemente-Methode (FEM) Simulation: ANSYS, Elfini
+- Finite-Elemente-Methode (FEM) Simulation:
+- - ANSYS,
+- - Elfini (linear Solver), GPS: Generative Part Structural Analysis 
 - Strömungsberechnungen (CFD): FLOTRAN, FIDAP
 
 ## Weitere Informationen
